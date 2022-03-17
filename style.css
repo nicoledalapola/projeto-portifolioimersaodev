@@ -80,6 +80,7 @@ a:hover {
 
 .projetos li {
 	font-family: "Roboto Serif", serif;
+	list-style: none;
 	font-weight: bold;
-	padding: 4px;
+	line-height: 30px;
 }
